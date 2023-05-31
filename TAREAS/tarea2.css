@@ -1,0 +1,58 @@
+#sofía {
+  color: rgb(3, 84, 116);
+  font-size: 100px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  text-shadow: 4px 4px rgb(115, 192, 223);
+}
+#p1 {
+  color: lightblue;
+  font-size: 90px;
+  text-align: center;
+  background-color: yellow;
+  text-shadow: 4px 4px blueviolet;
+}
+#p2 {
+  color: white(13, 231, 122);
+  font-size: 90px;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+#p3 {
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  background-color: green;
+}
+
+#p4 {
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  background-color: black;
+}
+
+#p5 {
+  color:darkblue;
+  font-size: 120px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color:cornsilk;
+}
+
+#p6 {
+  color: green;
+  font-size: 120px;
+  text-transform :uppercase
+  text-align: center;
+  background-color: cornsilk;
+}
+
+#p7 {
+  color: pink;
+  font-size: 160px;
+  text-align: center;
+  background-color:whitesmoke;
+  text-shadow: 4px 4px pink;
+}

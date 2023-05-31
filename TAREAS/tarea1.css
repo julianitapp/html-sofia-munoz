@@ -1,0 +1,36 @@
+h1 {
+  color: blueviolet;
+  font-size: 300px;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+h2 {
+  color: red;
+  font-size: 250px;
+  text-align: end;
+  background-color: green;
+}
+h3 {
+  color: blue;
+  font-size: 200px;
+  text-align: center;
+  background-color: yellow;
+}
+h4 {
+  color: white;
+  font-size: 150px;
+  text-align: end;
+  background-color: brown;
+}
+h5 {
+  color: purple;
+  font-size: 100px;
+  text-align: center;
+  background-color: black;
+}
+h6 {
+  color: peru;
+  font-size: 50px;
+  text-align: end;
+  background-color: greenyellow;
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Evaluación acumulativa</title>
+  </head>
+
+  <header>
+    <h1>MY FUTURE IN SPANISH</h1>
+  </header>
+  <body>
+    <h3>¿Qué habrá después del colegio?</h3>
+    <p>
+      Al graduarme del colegio deseo ir un año a la obra (así se le dice en mi
+      iglesia a ir a otra ciudad o país a predicar mi fe y creencia) antes de
+      estudiar una carrera universitaria.
+      <br />
+      <br />
+      Posteriormente, aspiro estudiar arquitectura en la Universidad San
+      Buenaventura. Se que en esta carrera necesitaré trasnochar mucho haciendo
+      maqutas y un montón de trabajos pero lña verdad eso me encantaria. Adoro
+      hacer maquetas, soy creativa con ese tipo de cosas. También me tocará leer
+      mucho y aunque puede ser cansado se que si lo hago bien aprenderé mucho y
+      eso es súper importante para mi.
+      <br />
+      <br />
+      Deseo especializarme en arquitectura verde, eso me encanta. Me encanta la
+      idea de tener que unir el diseño de edificios, casas, etc con el cuidado
+      al medio ambiente. Gracias al colegio se algunas cosas sobre esto como por
+      ejemplo que cosas como paneles solares, ventanales grandes para que entre
+      mucha luz y no sea necesario utilizar tantas luces, sanitarios, lavamanos
+      y luces con sensor, la recolectación de agua de lluvia, el uso de pequeñas
+      plantas en el techo del edificio para aportar frescura, entre otras, son
+      necesarias para que sea un edificio/casa verde.
+      <br />
+      <br />
+      <img id="im1" src="imagenes/im1" width="300" />
+      <br /><br />
+      La verdad yo desearia vivir en una casa con ese sistema.
+      <br />
+      Por cierto, mi casi novio (el tema del noviazgo en mi iglesia es
+      diferente) sabe sobre este tema, y eso me emociona demasiado. Y mi papa
+      tiene una empresa de construccion, consultoría e interventoria, por lo que
+      en caso de quedarme sin trabajo (esperemos que no) tengo trabajo asegurado
+      :)
+    </p>
+  </body>
+
+  <footer>
+    Nombre: Ana Sofía Muñoz Ortiz
+    <br />
+    <br />
+    Edad: 15 años
+    <br />
+    <br />
+    Celular: 3003682551
+    <br />
+    <br />
+    Institución educativa: Bethlemitas bello
+    <br />
+    <br />
+    <br />
+    <a href="mailto:anasofia.munozortiz@bethlemitasbello.edu.co"></a>
+  </footer>
+</html>

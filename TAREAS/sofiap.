@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>
+      sesion 4
+    </title>
+  </head>
+  <body>
+    <h1>La princesita Sofía</h1>
+    <img
+      src="https://masalladelapequetelevision.files.wordpress.com/2014/12/princesa-sofia-ver-personajes.jpg"
+      usemap="#image-map"
+    />
+<br>
+<br>
+<br>
+    <map name="image-map">
+      <area
+        title="#pagina principal"
+        href="https://www.youtube.com/watch?v=EDYPOFsXcB8"
+        coords="12,23,339,123"
+        shape="rect"
+      />
+      <img id="img2" 
+      src="pajaro.jpg" 
+      usemap="#image-map">
+
+    />
+      <map name="image-map">
+        <area
+          title="#pagina principal"
+          href="https://www.youtube.com/watch?v=T4DlpNQAb8c"
+          coords="920,544,76,80"
+          shape="rect"
+        />
+    </map>
+    <h2>Descripción</h2>
+    <p>
+      Sofía es una niña de origen plebeyo, hasta que el rey del reino de donde vive se enamora de su madre. Sofía se entera de que ser princesa no es tan fácil, y debe aprender a comportarse como le diga su corazón. Es una niña hermosa con el cabello castaño y ondulado. Tiene ojos azules muy grandes y piel clara. Su vestido es de color morado y lleva sobre su ondulada melena una corona de cristal. Alrededor de su cuello, usa un amuleto que le regaló su padre al momento de llegar al palacio real, llamado el Amuleto de Avalor, que le otorga un poder distinto cada vez que realiza acciones buenas, como por ejemplo hablar con animales, pero cuando realiza malas acciones sucede algo malo.
+  </body>
+</html>
